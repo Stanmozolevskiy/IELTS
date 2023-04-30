@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Production PROD
+         Production Dev
         </a>
       </header>
     </div>
