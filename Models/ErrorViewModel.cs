@@ -1,6 +1,6 @@
 using System;
 
-namespace ielts_backend.Models
+namespace ielts.Models
 {
     public class ErrorViewModel
     {

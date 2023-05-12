@@ -1,4 +1,4 @@
-﻿using ielts_backend.Models;
+﻿using ielts.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ielts_backend.Controllers
+namespace ielts.Controllers
 {
     public class HomeController : Controller
     {
