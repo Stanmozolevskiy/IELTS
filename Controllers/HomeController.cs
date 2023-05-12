@@ -18,6 +18,7 @@ namespace ielts.Controllers
             _logger = logger;
         }
 
+
         public IActionResult Index()
         {
             return View();
@@ -26,6 +27,10 @@ namespace ielts.Controllers
         public IActionResult Privacy()
         {
             return View();
+        }
+        public IActionResult Ech()
+        {
+            return Ok("Test");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
