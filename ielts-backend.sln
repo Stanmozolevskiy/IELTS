@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ielts-backend", "ielts-backend.csproj", "{1EB64CF4-738B-4F07-BFB5-9AA515845618}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ielts-backend", "ielts-backend\ielts-backend.csproj", "{FEADC9F7-279C-4FF0-9BA9-61DADC5F426B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1EB64CF4-738B-4F07-BFB5-9AA515845618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1EB64CF4-738B-4F07-BFB5-9AA515845618}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1EB64CF4-738B-4F07-BFB5-9AA515845618}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1EB64CF4-738B-4F07-BFB5-9AA515845618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEADC9F7-279C-4FF0-9BA9-61DADC5F426B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEADC9F7-279C-4FF0-9BA9-61DADC5F426B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEADC9F7-279C-4FF0-9BA9-61DADC5F426B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEADC9F7-279C-4FF0-9BA9-61DADC5F426B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4B113AAF-647E-4898-B5D7-B57DEA5EBC5F}
+		SolutionGuid = {75F5867D-78D7-4ADA-A753-7CA123AB34F8}
 	EndGlobalSection
 EndGlobal
