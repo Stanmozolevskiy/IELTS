@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31424.327
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ielts", "ielts.csproj", "{D41C0DE4-BEBF-46D4-BBA6-8B7069765BB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ielts", "ielts\ielts.csproj", "{EEFABEC8-DF59-4334-BA81-9B2E2F552F4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D41C0DE4-BEBF-46D4-BBA6-8B7069765BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D41C0DE4-BEBF-46D4-BBA6-8B7069765BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D41C0DE4-BEBF-46D4-BBA6-8B7069765BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D41C0DE4-BEBF-46D4-BBA6-8B7069765BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEFABEC8-DF59-4334-BA81-9B2E2F552F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFABEC8-DF59-4334-BA81-9B2E2F552F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEFABEC8-DF59-4334-BA81-9B2E2F552F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEFABEC8-DF59-4334-BA81-9B2E2F552F4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0AB57DD7-EEBC-4797-BF85-E2FBD7352A49}
+		SolutionGuid = {C8BC1FE3-7380-464C-9EE1-848FEC8524FE}
 	EndGlobalSection
 EndGlobal
